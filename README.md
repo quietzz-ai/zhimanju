@@ -8,7 +8,7 @@
 
 知漫剧官网：[www.jiaxunai.cn](https://www.jiaxunai.cn/)
 
-知漫剧官网：movie.jiaxunai.cn
+知漫剧官网：[movie.jiaxunai.cn](https://movie.jiaxunai.cn/)
 
 ## 核心能力
 
